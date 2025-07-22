@@ -26,7 +26,6 @@ This simple but nicely done implementation demonstrates how Remote Procedure Cal
 ---
 
 ## 🔄 Remote Procedure Call (RPC)
-<img width="615" height="421" alt="design,project1(2) drawio" src="https://github.com/user-attachments/assets/2bf3b61e-b635-4452-884c-9d73fc525ed4" />
 
 Mimic RPC behavior over sockets!  
 Here’s how it flows:
@@ -41,5 +40,6 @@ Here’s how it flows:
 ---
 
 ## 🔗 Architecture Diagram (Conceptual): 
-![Uploading design,project1(2).drawio.png…]()
+
+<img width="615" height="421" alt="design,project1(2) drawio" src="https://github.com/user-attachments/assets/2bf3b61e-b635-4452-884c-9d73fc525ed4" />
 
