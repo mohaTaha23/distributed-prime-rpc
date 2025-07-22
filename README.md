@@ -1,4 +1,4 @@
-# 🧠 Distributed Computing Project – RPC with Directory, Server, and Client
+# Distributed Computing Project – RPC with Directory, Server, and Client
 
 This is my **Distributed Computing** project for Spring 2023/2024  
 This simple but nicely done implementation demonstrates how Remote Procedure Calls (RPC) work using raw **sockets** in Java, with three core components working together like an orchestra 🎻:
@@ -39,5 +39,7 @@ Here’s how it flows:
 
 ---
 
-## 🔗 Architecture Diagram (Conceptual)
+## 🔗 Architecture Diagram (Conceptual): 
+
+<img width="615" height="421" alt="design,project1(2) drawio" src="https://github.com/user-attachments/assets/2bf3b61e-b635-4452-884c-9d73fc525ed4" />
 
